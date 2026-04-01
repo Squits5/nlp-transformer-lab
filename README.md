@@ -1,2 +1,8 @@
-# nlp-transformer-lab
-Experimental laboratory for testing custom transformer architectures in JAX. Focused on efficient attention mechanisms.
+# NLP Transformer Lab
+
+Deep dive into transformer efficiency and attention optimization.
+
+## Research Areas
+- Linear Attention
+- Sparse Transformers
+- Multi-modal Fusion
